@@ -12,6 +12,8 @@ System.out.println("bachelor of arts");
 	}
 	public void bBa() {
 System.out.println("bachelor of business acount");
+		system.out.println("hi everyone....");
+		
 	}
 
 }
